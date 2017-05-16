@@ -1,0 +1,28 @@
+{
+  "name": "create-data-api",
+  "version": "0.0.2",
+  "description": "Project template for authoring data API backends with PostgreSQL, Redis, Passport.js and GraphQL.",
+  "repository": "kriasoft/create-data-api",
+  "author": "Kriasoft <hello@kriasoft.com> (https://www.kriasoft.com)",
+  "contributes": [
+    "Konstantin Tarkus <hello@tarkus.me> (https://medium.com/@tarkus)"
+  ],
+  "keywords": [
+    "postgres",
+    "postgresql",
+    "redis",
+    "passport",
+    "passport.js",
+    "passportjs",
+    "i18n",
+    "localization",
+    "graphql",
+    "yarn",
+    "boilerplate",
+    "template"
+  ],
+  "license": "MIT",
+  "bin": {
+    "create-data-api": "./bin/create-data-api.js"
+  }
+}
